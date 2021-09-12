@@ -39,15 +39,19 @@ issues, as well as missing features.
 Installation
 ************
 
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
+1. Download XAMPP Server versi 7.0.1
+2. Kemudian Install XAMPP
+3. lalu Download File Project Ini kemudian anda Extract 
+4. Kemudian Pinda ke folder C/xampp/htdoc/project
+5. Kemudian Jalan XAMPP nya dengan cara Klik Star 
+6. Pada APACHE SERVER dan MYSQL sudah berjalan (jika jalan warna hijau )
+7. Kemudian Anda buka Folder di Google Dengan cara 
+8. localshot/apps_perpustakaan 
 
 *******
 License
 *******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+@fansyahdwi204@gmail.com
 
 *********
 Resources
@@ -68,3 +72,4 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
